@@ -1,4 +1,4 @@
-# Bookmarks for C\#\s
+# Bookmarks for C\# 
 + [.NET Fiddle](https://dotnetfiddle.net/) - *practice coding C# online*
 
 
